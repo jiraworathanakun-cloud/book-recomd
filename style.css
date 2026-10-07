@@ -1,0 +1,38 @@
+.hero-bg {background-color:#FFFFFF;}
+.wu-cl {color: #872626;}
+
+.why-card-1 {
+  background-color: #F0BDBB;
+}
+
+.why-card-2 {
+  background-color: #C9E1FF ;
+}
+
+.why-card-3 {
+  background-color: #FFF2C9
+}
+.fontcolor {color: #181854;}
+.bene-bg{
+    background-color: #F9FAED;
+}
+footer {
+    background: linear-gradient(
+        135deg,
+        #8E1B1B 0%,
+        #263B70 55%,
+        #B89B00 100%
+    );
+    color: #FFFFFF;
+}
+body {
+    font-family: 'Anuphan', sans-serif;
+}
+
+h1, h2, h3, h4, .btn {
+    font-family: 'Kanit', sans-serif;
+}
+.hero {
+    background-color: #F3F4F6;
+    color: black;
+}
